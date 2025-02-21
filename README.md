@@ -1,4 +1,4 @@
-# 💫 About Me:
+#         💫 About Me:
 Estudiante de 42 Madrid Fundación Telefonica y programador FullStack Junior 
 
 
